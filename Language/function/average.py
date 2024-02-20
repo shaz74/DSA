@@ -7,4 +7,6 @@ def my_array(average):
      average =  sum / i
   print (average)      
 
-my_array([1,2,3,4,5,6])
+my_array = [1,2,3,4,5,6]
+
+
